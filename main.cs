@@ -23,7 +23,7 @@ if (farenheit <= 32)
   Console.WriteLine("This temperature is below freezing of 32 degrees Farenheit.");
 }
 
-if else (farenheit >= 212)
+else if (farenheit >= 212)
 {
   Console.WriteLine("This temperatue is above boiling of 212 degrees Farenheit.");
 }
