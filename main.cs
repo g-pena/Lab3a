@@ -8,7 +8,7 @@ double farenheit;
 
 
 //Ask for temp. in Celsius
-Console.WriteLine("What is the temperature in Celsius?");
+Console.WriteLine("Enter temperature in Celsius:");
 celsius = Convert.ToDouble(Console.ReadLine());
 
 //Convert to Farenheit
